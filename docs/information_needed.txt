@@ -1,0 +1,28 @@
+MatchState
+	Live
+	Spectating
+	Menu
+
+Health
+Armor
+Primary Weapon
+	Remaining Ammo
+	Max Clip
+	Extra Ammo
+
+Secondary Weapon
+
+Knife
+
+Grenade 1
+Grenade 2
+Grenade 3
+Grenade 4
+
+Zeus?
+
+Current Team
+
+Kills
+Deaths
+Assists
